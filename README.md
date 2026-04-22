@@ -175,13 +175,13 @@ class Bhawna:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/bhawna1605">
+<a href="https://www.linkedin.com/in/bhawna-4549a739a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00fff0?style=for-the-badge&logo=linkedin&logoColor=0d0d0d&labelColor=0d0d0d"/>
 </a>
-<a href="https://leetcode.com/Bhawna1605/">
+<a href="https://leetcode.com/bhawna01062006">
   <img src="https://img.shields.io/badge/LeetCode-Profile-ff00ff?style=for-the-badge&logo=leetcode&logoColor=0d0d0d&labelColor=0d0d0d"/>
 </a>
-<a href="mailto:bhawna1605@gmail.com">
+<a href="mailto:bhawnajune2006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Mail_Me-00fff0?style=for-the-badge&logo=gmail&logoColor=0d0d0d&labelColor=0d0d0d"/>
 </a>
 
