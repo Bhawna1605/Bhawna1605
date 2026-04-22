@@ -28,38 +28,51 @@
 ---
 
 <!-- ABOUT ME -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320px"/>
+<div align="center">
 
-### `> whoami`
+## ✦ About Me ✦
 
-```python
-class Bhawna:
-    def __init__(self):
-        self.name       = "Bhawna"
-        self.username   = "Bhawna1605"
-        self.college    = "KCCITM, Faridabad"
-        self.degree     = "B.Tech CSE (Data Science)"
-        self.batch      = "2024 → 2028"
-        self.location   = "Faridabad, Haryana 🇮🇳"
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280px"/>
 
-    def current_grind(self):
-        return {
-            "DSA"    : "C++ — LeetCode daily 💪",
-            "ML"     : "Building real-world projects 🤖",
-            "Uni"    : "AKTU — Java OOP + OS + Math 📚",
-            "Goal"   : "Land a sick internship 🚀"
-        }
+<br/><br/>
 
-    def hobbies(self):
-        return ["Debugging at 2AM 🌙",
-                "Math nerd 📐",
-                "Turning data into stories 📊"]
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🪪 &nbsp; Who Am I?</h3>
+      <table>
+        <tr><td>👩‍💻</td><td><b>Name</b></td><td>Bhawna</td></tr>
+        <tr><td>🎓</td><td><b>College</b></td><td>KCCITM, Faridabad</td></tr>
+        <tr><td>📖</td><td><b>Degree</b></td><td>B.Tech CSE — Data Science</td></tr>
+        <tr><td>🗓️</td><td><b>Batch</b></td><td>2024 → 2028</td></tr>
+        <tr><td>📍</td><td><b>Location</b></td><td>Faridabad, Haryana 🇮🇳</td></tr>
+        <tr><td>💼</td><td><b>Status</b></td><td>Open to Internships ⚡</td></tr>
+      </table>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ &nbsp; Current Grind</h3>
+      <table>
+        <tr><td>🗡️</td><td><b>DSA</b></td><td>C++ · LeetCode daily 💪</td></tr>
+        <tr><td>🤖</td><td><b>ML/AI</b></td><td>Building real-world projects</td></tr>
+        <tr><td>📚</td><td><b>Uni</b></td><td>AKTU · Java OOP · OS · Math</td></tr>
+        <tr><td>🚀</td><td><b>Goal</b></td><td>Land a killer internship</td></tr>
+        <tr><td>🌙</td><td><b>Hobby</b></td><td>Debugging at 2AM</td></tr>
+        <tr><td>🔥</td><td><b>Motto</b></td><td>सपने बड़े हों, commits बड़े हों</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-    def motto(self):
-        return "सपने बड़े हों, commits बड़े हों 🔥"
-```
+<br/>
 
-<br clear="right"/>
+<!-- ANIMATED STATS BADGES -->
+<img src="https://img.shields.io/badge/🧠_Focus-Data_Science_%26_ML-00fff0?style=flat-square&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚔️_DSA-C++_LeetCode_Grind-ff00ff?style=flat-square&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_AKTU-B.Tech_2028-00fff0?style=flat-square&labelColor=0d0d0d"/>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
