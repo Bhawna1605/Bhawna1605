@@ -28,54 +28,22 @@
 ---
 
 <!-- ABOUT ME -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=3&section=header&stroke=00fff0&strokeWidth=2" width="100%"/>
+## 🚀 &nbsp; About Me
 
-<br/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260px"/>
 
-## 🌌 &nbsp; About Me &nbsp; 🌌
+- 👩‍💻 &nbsp; **B.Tech CSE Student** @ KCCITM, Faridabad `2024 → 2028`
+- 🎯 &nbsp; **Focus:** Data Science, DSA, AI & ML
+- 🤖 &nbsp; **Currently:** Building ML projects + grinding LeetCode in C++
+- 🎓 &nbsp; **Uni:** AKTU — Java OOP · OS · Engineering Math
+- 🏆 &nbsp; **Goal:** Land a killer internship at a top tech company
+- 🌙 &nbsp; **Hobby:** Debugging at 2AM like it's normal
+- 📍 &nbsp; **Location:** Faridabad, Haryana 🇮🇳
+- ⚡ &nbsp; **Mindset:** Consistency > Motivation
+- 🔥 &nbsp; **Motto:** सपने बड़े हों, commits बड़े हों
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250px"/>
-
-<br/><br/>
-
-<!-- WHO AM I — using shields.io info cards -->
-
-**`🪪  WHO AM I`**
-
-<br/>
-
-![Name](https://img.shields.io/badge/👩‍💻_Name-Bhawna-00fff0?style=for-the-badge&labelColor=0d0d0d)
-![College](https://img.shields.io/badge/🎓_College-KCCITM_Faridabad-ff00ff?style=for-the-badge&labelColor=0d0d0d)
-![Degree](https://img.shields.io/badge/📖_Degree-B.Tech_CSE_(Data_Science)-00fff0?style=for-the-badge&labelColor=0d0d0d)
-
-<br/>
-
-![Batch](https://img.shields.io/badge/🗓️_Batch-2024_→_2028-ff00ff?style=for-the-badge&labelColor=0d0d0d)
-![Location](https://img.shields.io/badge/📍_Location-Faridabad,_Haryana_🇮🇳-00fff0?style=for-the-badge&labelColor=0d0d0d)
-![Status](https://img.shields.io/badge/💼_Status-Open_to_Internships_⚡-ff00ff?style=for-the-badge&labelColor=0d0d0d)
-
-<br/><br/>
-
-**`⚡  CURRENT GRIND`**
-
-<br/>
-
-![DSA](https://img.shields.io/badge/🗡️_DSA-C++_·_LeetCode_Daily_💪-00fff0?style=for-the-badge&labelColor=0d0d0d)
-![ML](https://img.shields.io/badge/🤖_ML%2FAI-Building_Real--World_Projects-ff00ff?style=for-the-badge&labelColor=0d0d0d)
-
-<br/>
-
-![Uni](https://img.shields.io/badge/📚_Uni-AKTU_·_Java_·_OS_·_Math-00fff0?style=for-the-badge&labelColor=0d0d0d)
-![Goal](https://img.shields.io/badge/🚀_Goal-Land_a_Killer_Internship-ff00ff?style=for-the-badge&labelColor=0d0d0d)
-
-<br/>
-
-![Hobby](https://img.shields.io/badge/🌙_Hobby-Debugging_at_2AM-00fff0?style=for-the-badge&labelColor=0d0d0d)
-![Motto](https://img.shields.io/badge/🔥_Motto-सपने_बड़े_हों,_commits_बड़े_हों-ff00ff?style=for-the-badge&labelColor=0d0d0d)
-
-</div>
+<br clear="right"/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
