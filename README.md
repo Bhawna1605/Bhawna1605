@@ -33,16 +33,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260px"/>
 
-- 👩‍💻 &nbsp; **B.Tech CSE Student** @ KCCITM, Faridabad `2024 → 2028`
+- 👩‍💻 &nbsp; **B.Tech CSE Student** @ KCCITM  `2024 → 2028`
 - 🎯 &nbsp; **Focus:** Data Science, DSA, AI & ML
 - 🤖 &nbsp; **Currently:** Building ML projects + grinding LeetCode in C++
-- 🎓 &nbsp; **Uni:** AKTU — Java OOP · OS · Engineering Math
-- 🏆 &nbsp; **Goal:** Land a killer internship at a top tech company
-- 🌙 &nbsp; **Hobby:** Debugging at 2AM like it's normal
-- 📍 &nbsp; **Location:** Faridabad, Haryana 🇮🇳
-- ⚡ &nbsp; **Mindset:** Consistency > Motivation
-- 🔥 &nbsp; **Motto:** सपने बड़े हों, commits बड़े हों
-
 <br clear="right"/>
 
 <div align="center">
