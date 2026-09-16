@@ -74,9 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhawna1605&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=22d3ee&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%" alt="Contribution Graph" />
-
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bhawna1605&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" width="0" height="0" style="display:none" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhawna1605/Bhawna1605/output/github-contribution-grid-snake-dark.svg" />
