@@ -48,16 +48,11 @@
 
 ---
 
-## GitHub Stats
+## 📊 Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhawna1605&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawna1605&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Bhawna1605&hide_border=true&background=0d1117&stroke=21262d&ring=22d3ee&fire=22d3ee&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Bhawna1605&background=161b22&border=30363d&stroke=30363d&ring=60a5fa&fire=c084fc&currStreakNum=c084fc&currStreakLabel=c084fc&sideNums=60a5fa&sideLabels=5eead4&dates=5eead4&card_width=700" alt="GitHub Analytics" />
 
 </div>
 
