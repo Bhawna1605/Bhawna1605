@@ -8,8 +8,6 @@
 
 <p><b>Learning deeply. Building consistently. Shipping steadily.</b></p>
 
-<img src="https://img.shields.io/github/followers/Bhawna1605?label=Followers&style=flat-square&color=0d1117&labelColor=0d1117" />
-
 </div>
 
 ---
