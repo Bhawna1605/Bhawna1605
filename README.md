@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Bhawna1605">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=Data+Science+%7C+Machine+Learning;DSA+in+C%2B%2B;B.Tech+CSE+%40+KCCITM+Faridabad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=50&lines=Bhawna;DSA+%2B+Web+Developer;Problem+Solver" alt="Typing SVG" />
 </a>
 
 <p><b>Learning deeply. Building consistently. Shipping steadily.</b></p>
