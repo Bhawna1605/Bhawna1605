@@ -91,15 +91,15 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhawna-4549a739a">
-  <img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=flat-square&logo=linkedin&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=flat-square&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/bhawna01062006/">
-  <img src="https://img.shields.io/badge/LeetCode-22d3ee?style=flat-square&logo=leetcode&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/LeetCode-22d3ee?style=flat-square&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:bhawnajune2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-22d3ee?style=flat-square&logo=gmail&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-22d3ee?style=flat-square&labelColor=0d1117" />
 </a>
 
 </div>
