@@ -18,7 +18,7 @@
 
 ## About Me
 
-- **B.Tech CSE (Data Science) Student
+- B.Tech CSE (Data Science) Student
 - **Focus:** Data Science, Machine Learning, DSA
 - **Currently:** Building ML projects and solving problems daily in C++
 - **Reach me:** bhawnajune2006@gmail.com
