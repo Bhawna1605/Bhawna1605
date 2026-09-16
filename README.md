@@ -103,3 +103,21 @@
 </a>
 
 </div>
+
+---
+
+
+## ⚡ Current Focus
+
+- Strengthening DSA fundamentals in C++
+- Building real-world ML & Data Science projects
+- Preparing for internship opportunities
+
+---
+
+
+<div align="center">
+
+⚡ **Keep Learning. Keep Building. Keep Improving.** ⚡
+
+</div>
