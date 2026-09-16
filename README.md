@@ -31,15 +31,9 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,tensorflow,sklearn&theme=dark&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,bash&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,jupyter,linux&theme=dark&perline=6" />
 
 </div>
-
-**Languages** &nbsp;·&nbsp; C++ · Python · Java · SQL
-
-**ML / Data** &nbsp;·&nbsp; NumPy · Pandas · Scikit-learn · XGBoost · TensorFlow · BERT / NLP · Matplotlib · Seaborn
-
-**Tools** &nbsp;·&nbsp; Git · GitHub · VS Code · Jupyter · Linux · ReportLab
 
 ---
 
